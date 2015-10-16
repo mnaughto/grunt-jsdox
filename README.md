@@ -1,6 +1,8 @@
 # grunt-jsdox
 
 > Recursively generates markdown files for your project, using the jsDox parser.  Optionally generates a table of contents, and supports git
+>
+> This fork of grunt-jsdox uses a fork of jsdoc (via a forked jsdox) which supports programmatic invocation.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.2`
